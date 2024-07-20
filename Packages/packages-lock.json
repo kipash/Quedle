@@ -44,6 +44,14 @@
       "dependencies": {},
       "url": "https://packages.needle.tools"
     },
+    "com.shodo.character-framework": {
+      "version": "file:../Modules/CharacterFramework",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.needle.engine-exporter": "3.41.1-exp"
+      }
+    },
     "com.unity.burst": {
       "version": "1.8.11",
       "depth": 2,

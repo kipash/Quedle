@@ -18,5 +18,10 @@ MonoBehaviour:
     Projects:
     - ProjectPath: Library/Needle/Sample
     BuilderScene: 
+  - Path: Assets/Game/Scenes/Main.unity
+    Projects:
+    - ProjectPath: Library/Needle/Quedle
+    BuilderScene: 
   Projects:
   - ProjectPath: Library/Needle/Sample
+  - ProjectPath: Library/Needle/Quedle

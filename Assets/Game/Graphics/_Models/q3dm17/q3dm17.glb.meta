@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: 8302827dcf5f3af4c89083bec100c5a7
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: models/mapobjects/kmlamp1.vertex
+    second: {fileID: 2100000, guid: 66438d6c49780f341bb7d9451231962c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: models/mapobjects/kmlamp_white.vertex
+    second: {fileID: 2100000, guid: 11dce2be284c8cc40865d8f1d39bdcf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: models/mapobjects/lamps/bot_lamp.vertex
+    second: {fileID: 2100000, guid: 0c333ab822fe165449f7bb668e44e62c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: models/mapobjects/lamps/bot_lamp2.vertex
+    second: {fileID: 2100000, guid: 4f062aa1a1193114d9ec03fd97ebf9bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: models/mapobjects/spotlamp/spotlamp.vertex
+    second: {fileID: 2100000, guid: b02ec07755ecaee409c27137761af61e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: models/mapobjects/spotlamp/spotlamp_l.vertex
+    second: {fileID: 2100000, guid: 438e989808dfdb34ca00364e1644f22c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: models/mapobjects/teleporter/energy.vertex
+    second: {fileID: 2100000, guid: e4a66b962ce58d949ac9561b9bb8e3e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: models/mapobjects/teleporter/pad.vertex
+    second: {fileID: 2100000, guid: b7b6ad2b20acdf844ab2c0ba643adc97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: models/mapobjects/teleporter/teleporter.vertex
+    second: {fileID: 2100000, guid: fb75861635f46f14facbbcd76d18fc09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: models/mapobjects/teleporter/teleporter_edge.vertex
+    second: {fileID: 2100000, guid: 7758979742b541546a3a184cbd30b62f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: models/mapobjects/teleporter/transparency.vertex
+    second: {fileID: 2100000, guid: 1d4c13c59896cae41af4ae890a92eb83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: models/mapobjects/teleporter/widget.vertex
+    second: {fileID: 2100000, guid: 0076fafe78cfc3a4e9e682cb3b07292f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_floor/diamond2c
+    second: {fileID: 2100000, guid: b79efa66103fa6342b89cd675aaa1140, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_floor/diamond2c_ow
+    second: {fileID: 2100000, guid: 7baa50fcfa8ce3f42abfdcda7239e50e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_light/baslt4_1_4k
+    second: {fileID: 2100000, guid: 1c20d9e33d1fa364ba0e92f789cc775e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_light/light5_5k.vertex
+    second: {fileID: 2100000, guid: 1197b2ea73761ae428dfcff48d783652, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_light/lt2_2000
+    second: {fileID: 2100000, guid: de5784bd4caf70f4d8b67df1bd6db36c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_light/lt2_8000
+    second: {fileID: 2100000, guid: 7fb2deb660ce72443970c3704e59280c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_support/cable
+    second: {fileID: 2100000, guid: efe5ef82d5ccc764c84b00000e190a22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_trim/basemetalsupport
+    second: {fileID: 2100000, guid: 756e5b6781b6eee49afd69d8a29ce16e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_trim/border11b
+    second: {fileID: 2100000, guid: 59f329dbeeb19234c8bc2947fc5611f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_trim/border11light
+    second: {fileID: 2100000, guid: 49be8db3625867d47abd5695e32e4cf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_trim/pewter_shiney
+    second: {fileID: 2100000, guid: 5127336f602fe8e4ab227c6164463e70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_trim/spiderbit4
+    second: {fileID: 2100000, guid: 9218bde3f4dd25f43b1bd5796d6d260e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_wall/atech1_a
+    second: {fileID: 2100000, guid: bd7c8956f4d8554408f3e442feb53b31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_wall/atech1_e
+    second: {fileID: 2100000, guid: 5b082aad300f7ee439a746281b41da15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_wall/c_met5_2
+    second: {fileID: 2100000, guid: 0ad4d1fca175b4143b7d6c522176747d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_wall/c_met7_2
+    second: {fileID: 2100000, guid: f43e90b0b23381d44ac46197759a3efa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_wall/main_q3abanner
+    second: {fileID: 2100000, guid: cac3e616478ed5746a829d1c46e1a1de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_wall/metalblack03
+    second: {fileID: 2100000, guid: 650e3231c35b3d94b9842b8a71515340, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_wall/metalfloor_wall_10
+    second: {fileID: 2100000, guid: f6246e3dfce5549489e052dc41a3cc56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_wall/metalfloor_wall_15
+    second: {fileID: 2100000, guid: c680e9d38044d314ba4cae485877e547, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_wall/metalfloor_wall_15ow
+    second: {fileID: 2100000, guid: 1c60bddb63624f848ad832dfdfabccba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_wall/metaltech06final
+    second: {fileID: 2100000, guid: a3229a9951a8015459c252c0a6f9a951, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_wall/metaltech12final
+    second: {fileID: 2100000, guid: 78a337118c1620946adcd43ffb88b94b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_wall/metaltech13final
+    second: {fileID: 2100000, guid: 70fcc7628b7e08f43816b963af54d313, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_wall/metfloor_block_3
+    second: {fileID: 2100000, guid: b4fe7de2b4a3ed442b79deec6d6a2cb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_wall/steed1ge
+    second: {fileID: 2100000, guid: ea9fcde8da540e24fa53031b08598a80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/base_wall/steed1gf
+    second: {fileID: 2100000, guid: 22b9a8586b84b77439da1f81bdd7e1b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/sfx/diamond2cjumppad
+    second: {fileID: 2100000, guid: 0561f6d3ff317a64ea348ce06f2ca194, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/sfx/launchpad_diamond
+    second: {fileID: 2100000, guid: 7195ac4a98346084786907933313e35b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textures/sfx/pentfloor_diamond2c
+    second: {fileID: 2100000, guid: 0cea20a48f9631946a1ddceac8e564cf, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 804e1ce4c496647cfa3f1a1134187c71, type: 3}
+  _removeEmptyRootObjects: 1
+  _scaleFactor: 0.02
+  _maximumLod: 300
+  _readWriteEnabled: 1
+  _generateColliders: 0
+  _swapUvs: 0
+  _generateLightmapUVs: 0
+  _importBlendShapeNames: 1
+  _blendShapeFrameWeight:
+    _option: 0
+    _multiplier: 1
+  _importNormals: 0
+  _importTangents: 0
+  _importCamera: 2
+  _importAnimations: 2
+  _addAnimatorComponent: 0
+  _animationLoopTime: 1
+  _animationLoopPose: 0
+  _importMaterials: 1
+  _enableGpuInstancing: 0
+  _useSceneNameIdentifier: 1
+  _textureCompression: -50
+  optimizeGameObjects: 0
+  materials:
+  - {fileID: -312827131701264920, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: 6447309911116882527, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: 110301013227187948, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: -6471998674873085753, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: 1031779676355893726, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: 6176618967655471720, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: -1402665899699603775, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: -3242164808697077705, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: -7368001257629552797, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: -1891563941229988872, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: -8011625910757532783, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: 2789369330361237913, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: -5613960469436606253, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: -3901632407150738377, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: 3907368673386320900, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: 5310781336762113958, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: 3393092565142199700, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: -192949253272543329, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: 2831549075393914683, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: 2492907528885848140, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: -4175879851978198201, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: -3933667960607434039, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: 4668804191967069814, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: 7778757515357445355, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: -7225826484244795307, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: 6478795442470233801, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: -7074115173464280184, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: 4565267956448003970, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: -6689995718772735525, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: -2602884396116096954, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: -8973876244254832798, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: 557159632288624718, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: 5065751741427965884, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: 980238915299925749, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: 4347445903508532331, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: 5360462689722903959, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: 9143394800705067175, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: -6922781360593779442, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: 7158752219165518538, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: -3585106219937948468, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: 3900317837453178925, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  - {fileID: -6190425322109685299, guid: 8302827dcf5f3af4c89083bec100c5a7, type: 3}
+  textures: []
+  hasSceneData: 1
+  hasAnimationData: 0
+  hasMaterialData: 1
+  hasTextureData: 0
+  animations: []
+  _extensions: []
+  _textures: []
+  _mainAssetIdentifier: scenes/Scene
+  _importPlugins: []
